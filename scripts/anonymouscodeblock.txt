@@ -1,0 +1,2 @@
+myfirstclass conlastnames = new myfirstclass();
+conlastnames.getaccountname('Jack Rogers');    
